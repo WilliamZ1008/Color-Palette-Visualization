@@ -1,6 +1,6 @@
 # Palette Explorer
 
-[👉 在线体验 Palette Explorer](palette/deploy/index.html)
+[👉 在线体验 Palette Explorer](./deploy/index.html)
 
 
 一款交互式 Gradio 应用，可从任意图片中提取主色调，通过带复制按钮的排版卡片展示结果，并在 RGB 三维空间中可视化 k-means 聚类分布。
